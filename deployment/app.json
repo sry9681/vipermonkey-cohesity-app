@@ -1,0 +1,12 @@
+{
+ "id": 1,
+ "name" : "ViperMonkey",
+ "version" : 1,
+ "dev_version": 1.0,
+ "description" : "ViperMonkey: scan a file in a View using ViperMonkey",
+ "access_requirements" : {
+    "read_access" : true,
+    "read_write_access" : false,
+    "management_access" : true
+ }
+}
